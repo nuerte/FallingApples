@@ -10,4 +10,8 @@ public class Kiwi implements IFruit {
   public int getRollMultiplier() {
     return 0;
   }
+
+  public void throwAwayFunction() {
+    int foo = 1;
+  }
 }
